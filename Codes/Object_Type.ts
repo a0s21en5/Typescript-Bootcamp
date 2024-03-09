@@ -16,3 +16,4 @@ const users: Users = {
 }
 
 console.warn(users);
+console.warn(users.name, users.age);
