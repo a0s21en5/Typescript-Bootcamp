@@ -31,3 +31,7 @@
 ## Day 8
 
 - Object Type in typescript
+
+## Day 9
+
+- Array Type in typescript
