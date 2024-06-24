@@ -35,3 +35,15 @@
 ## Day 9
 
 - Array Type in typescript
+
+## Day 10
+
+- Tuple Type in typescript
+
+## Day 11
+
+- Enum in TypeScript
+
+## Day 12
+
+- Any in TypeScript
