@@ -2,7 +2,7 @@
 
 Type Aliases in TypeScript allow you to create a new name for any type. This helps in making your code more readable and reusable by giving meaningful names to complex types.
 
-1. Type Alias with Variable
+## Type Alias with Variable
 
 You can use Type Aliases to define a custom name for a type, making it easier to understand and reuse throughout your codebase.
 
@@ -18,7 +18,7 @@ let p1: Point = { x: 10, y: 20 };
 let p2: Point = { x: 5, y: 15 };
 ```
 
-2. Type Alias with Function Parameters
+## Type Alias with Function Parameters
 
 Type Aliases can also be used to simplify function parameter definitions, especially when dealing with complex or nested types.
 
