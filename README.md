@@ -47,3 +47,15 @@
 ## Day 12
 
 - Any in TypeScript
+
+## Day 13
+
+- Union in TypeScript
+
+## Day 14
+
+- Literals in TypeScript
+
+## Day 15
+
+- Type Alias in typescript
