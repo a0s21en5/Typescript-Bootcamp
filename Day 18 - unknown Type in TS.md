@@ -28,3 +28,28 @@ if (typeof userInput === 'string') {
 // Type assertion using 'as' keyword
 let maybeNumber: unknown = 5;
 let myNumber: number = maybeNumber as number; // Type assertion to number
+```
+
+## Function Parameters and Return Types
+
+```typescript
+function getValue(value: unknown): string {
+    if (typeof value === 'string') {
+        return value.toUpperCase(); // Type assertion within function
+    }
+    return ''; // Handle other cases
+}
+```
+
+```typescript
+function isString(value: unknown): value is string {
+    return typeof value === 'string';
+}
+
+let userInput: unknown = 'hello';
+if (isString(userInput)) {
+    console.log(userInput.toUpperCase()); // Type assertion through type guard
+}
+```
+
+In summary, unknown in TypeScript provides a way to enforce stricter type checking compared to any, ensuring safer and more predictable code by requiring type assertions or type guards before using values of this type.
