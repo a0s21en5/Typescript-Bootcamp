@@ -59,3 +59,23 @@
 ## Day 15
 
 - Type Alias in typescript
+
+## Day 16
+
+- Function Type
+
+## Day 17
+
+- Void function
+
+## Day 18
+
+- unknown Type in TS
+
+## Day 19
+
+- Never Type
+
+## Day 20
+
+- Compile and Use Multiple Files
