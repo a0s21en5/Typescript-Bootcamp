@@ -79,3 +79,43 @@
 ## Day 20
 
 - Compile and Use Multiple Files
+
+## Day 21
+
+- Include and Exclude file folder
+
+## Day 22
+
+- Target Configuration
+
+## Day 23
+
+- rootDir and outDir
+
+## Day 24
+
+- Code Quality improvement Options
+
+## Day 25
+
+- Class basic
+
+## Day 26
+
+- Class Compilation with ES5 and ES6
+
+## Day 27
+
+- Public and Private access modifiers
+
+## Day 28
+
+- Constructor and Shorthand Initialization
+
+## Day 29
+
+- read only vs private property
+
+## Day 30
+
+- Inheritance in TS
